@@ -1,0 +1,11 @@
+*{
+    font-family:'century gothic';
+    margin :0;
+    padding: 0;
+    font-weight: 100;
+    font-display: swap;
+    display: swap;
+}
+header{
+    background: #f8f8f8;
+}
